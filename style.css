@@ -1,0 +1,32 @@
+body {
+	background-color: red;
+}
+
+h1{
+	font-family: ariel, sans-serif;
+}
+.crven_naslov{
+color: red;
+font-size: 80px;
+}
+#sin-naslov{
+color: blue
+}
+.Dj-marta{
+	width: 500px;
+	/*height: 500px*/
+	background-color: orange;}
+	
+.link-b {
+	font-size: 40px;
+	text-decoration :none;
+	text-transform: uppercase;
+	color: white;
+	display: block;
+	background-color: blue;
+	width: 200px;
+	text-align:center;
+}
+
+
+
